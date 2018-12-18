@@ -1,0 +1,8 @@
+# lib gitignore
+
+# ignore created files in the build folder
+build/**
+# -> keep the build folder
+!build/.keep 
+
+
